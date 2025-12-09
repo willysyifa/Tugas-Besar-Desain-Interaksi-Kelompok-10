@@ -1,9 +1,9 @@
-# ⚖️ SAIJIWO: Aplikasi Pengingat Pola Hidup Sehat Berbasis Aktivitas Harian
+# ⚖️ SAIJIWO: Pengingat Pola Hidup Sehat Berbasis Aktivitas Harian
 
 > Aplikasi untuk mencapai keseimbangan antara tubuh dan pikiran.
 > **Tagline:** Sehat Itu Gaya, Seimbang Itu Jiwa.
 
-SaiJiwo adalah prototipe aplikasi mobile yang dirancang untuk membantu mahasiswa, khususnya mahasiswa ITERA, dalam menjaga **keseimbangan hidup** melalui pemantauan dan pengingat rutinitas harian. Aplikasi ini berfokus pada tiga aspek utama: **Waktu Tidur, Olahraga, dan Pola Makan**.
+SaiJiwo adalah prototipe yang dirancang untuk membantu mahasiswa, khususnya mahasiswa ITERA, dalam menjaga **keseimbangan hidup** melalui pemantauan dan pengingat rutinitas harian. Aplikasi ini berfokus pada tiga aspek utama: **Waktu Tidur, Olahraga, dan Pola Makan**.
 
 ## 💡 Latar Belakang Masalah
 
