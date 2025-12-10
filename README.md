@@ -18,20 +18,39 @@ Mahasiswa perguruan tinggi, khususnya di Institut Teknologi Sumatera (ITERA), me
 Masalah-masalah tersebut menunjukkan perlunya sebuah solusi yang dapat membantu mahasiswa membangun kebiasaan sehat secara teratur.
 
 
-## 🎯 Tujuan Aplikasi
+## 🎯 Tujuan Perancangan Prototype
 
-Aplikasi SaiJiwo bertujuan untuk menciptakan **keseimbangan hidup** yang lebih sehat, produktif, dan berkelanjutan. Secara spesifik, aplikasi ini dirancang untuk:
-1.  Membantu mahasiswa mengatur waktu tidur, olahraga, dan pola makan secara seimbang.
-2.  Menyediakan panduan yang mendorong pengguna untuk lebih sadar dan teratur dalam menjaga keseimbangan antara aktivitas, makanan, dan waktu istirahat.
+Tujuan dari perancangan prototype ini adalah:
 
-## 🛠️ Fitur Utama
+- **Membuat prototype aplikasi** yang mampu mengingatkan jadwal tidur, makan, dan aktivitas fisik mahasiswa.
+- **Menyediakan fitur pemantauan rutinitas harian** agar mahasiswa dapat melihat konsistensi kebiasaan sehatnya.
+- **Memberikan rekomendasi aktivitas** yang sesuai untuk mendukung pola hidup sehat secara berkelanjutan.
 
-SaiJiwo berfungsi sebagai panduan yang mendorong pengguna membentuk pola hidup sehat dengan cara yang sederhana dan interaktif.
 
-* **Pengaturan Pengingat Tidur:** Pengguna dapat menentukan waktu pengingat sesuai kebutuhan (misalnya jam tidur pukul 23.00) dan aplikasi akan memberikan notifikasi otomatis.
-* **Pengaturan Pengingat Olahraga:** Pengingat untuk melakukan aktivitas fisik secara teratur.
-* **Pengaturan Pengingat Makan:** Membantu pengguna mengatur dan mengingat waktu makan agar pola makan lebih seimbang.
-* **Rangkuman Aktivitas:** Pengguna dapat melihat rangkuman aktivitas harian untuk memantau konsistensi rutinitas.
+## 🧩 Fitur Utama
+
+Aplikasi ini menyediakan beberapa fitur utama yang dapat diakses melalui menu utama, yaitu:
+
+### 🛌 Pola Tidur
+- Mengatur jadwal tidur dan bangun.
+- Memantau durasi tidur harian.
+- Menampilkan riwayat dalam bentuk grafik.
+- Memberikan rekomendasi waktu istirahat yang ideal.
+
+### 🍽️ Pola Makan
+- Mengingatkan jadwal makan pagi, siang, dan malam.
+- Menyediakan form log makanan dengan analisis sederhana.
+- Menampilkan statistik makan harian untuk menjaga pola makan tetap teratur.
+
+### 🏃 Aktivitas Fisik
+- Memantau jumlah langkah harian.
+- Memberikan rekomendasi olahraga ringan jika target langkah belum tercapai.
+- Menampilkan grafik aktivitas untuk meningkatkan motivasi pengguna.
+
+### 👤 Profil & Pengaturan
+- Mengelola data pribadi pengguna.
+- Mengatur preferensi notifikasi.
+- Sinkronisasi dengan kalender kuliah agar pengingat lebih sesuai dengan j
 
 ## 👥 Tim Pengembang (Kelompok 10 Kelas RB)
 
