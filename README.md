@@ -3,7 +3,7 @@
 > Aplikasi untuk mencapai keseimbangan antara tubuh dan pikiran.
 > **Tagline:** Sehat Itu Gaya, Seimbang Itu Jiwa.
 
-SaiJiwo adalah prototipe yang dirancang untuk membantu mahasiswa, khususnya mahasiswa ITERA, dalam menjaga **keseimbangan hidup** melalui pemantauan dan pengingat rutinitas harian. Aplikasi ini berfokus pada tiga aspek utama: **Waktu Tidur, Olahraga, dan Pola Makan**.
+SaiJiwo adalah prototype yang dirancang untuk membantu mahasiswa, khususnya mahasiswa ITERA, dalam menjaga **keseimbangan hidup** melalui pemantauan dan pengingat rutinitas harian. Aplikasi ini berfokus pada tiga aspek utama: **Waktu Tidur, Olahraga, dan Pola Makan**.
 
 ## 📌 Latar Belakang Masalah
 
@@ -52,10 +52,10 @@ Aplikasi ini menyediakan beberapa fitur utama yang dapat diakses melalui menu ut
 - Mengatur preferensi notifikasi.
 - Sinkronisasi dengan kalender kuliah agar pengingat lebih sesuai dengan jadwal
 
-## 🔗 Akses Prototipe (Figma)
-Anda dapat menjelajahi tampilan interaktif dan alur pengguna dari prototipe SaiJiwo melalui tautan di bawah ini:
+## 🔗 Akses Prototype (Figma)
+Anda dapat menjelajahi tampilan interaktif dan alur pengguna dari prototype SaiJiwo melalui tautan di bawah ini:
 
-➡️ **[LINK PROTOTIPE](https://www.figma.com/proto/xU1fDnNsiBWqt1vawbxyvP/SaiJiwo?node-id=334-344&p=f&t=qugSxjBvB8np2MAT-0&scaling=min-zoom&content-scaling=fixed&page-id=328%3A163&starting-point-node-id=334%3A328&show-proto-sidebar=1)**
+➡️ **[LINK PROTOTYPE](https://www.figma.com/proto/xU1fDnNsiBWqt1vawbxyvP/SaiJiwo?node-id=334-344&p=f&t=qugSxjBvB8np2MAT-0&scaling=min-zoom&content-scaling=fixed&page-id=328%3A163&starting-point-node-id=334%3A328&show-proto-sidebar=1)**
 
 ## 👥 Tim Pengembang (Kelompok 10 Kelas RB)
 
