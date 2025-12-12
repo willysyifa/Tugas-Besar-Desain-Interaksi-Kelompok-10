@@ -50,7 +50,12 @@ Aplikasi ini menyediakan beberapa fitur utama yang dapat diakses melalui menu ut
 ### 👤 Profil & Pengaturan
 - Mengelola data pribadi pengguna.
 - Mengatur preferensi notifikasi.
-- Sinkronisasi dengan kalender kuliah agar pengingat lebih sesuai dengan j
+- Sinkronisasi dengan kalender kuliah agar pengingat lebih sesuai dengan jadwal
+
+## 🔗 Akses Prototipe (Figma)
+Anda dapat menjelajahi tampilan interaktif dan alur pengguna lengkap dari prototype SaiJiwo di Figma melalui tautan di bawah ini:
+
+➡️ **[LIHAT PROTOTIPE INTERAKTIF SAIJIWO DI FIGMA]([[GANTI DENGAN LINK FIGMA ANDA DI SINI](https://www.figma.com/proto/xU1fDnNsiBWqt1vawbxyvP/SaiJiwo?node-id=334-336&p=f&t=qugSxjBvB8np2MAT-0&scaling=min-zoom&content-scaling=fixed&page-id=328%3A163&starting-point-node-id=334%3A328&show-proto-sidebar=1)])**
 
 ## 👥 Tim Pengembang (Kelompok 10 Kelas RB)
 
